@@ -1,0 +1,1 @@
+enum BlocCombineEvent { load, update }

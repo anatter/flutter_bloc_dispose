@@ -1,0 +1,1 @@
+enum BlocAEvent { load }
